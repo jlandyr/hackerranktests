@@ -1,6 +1,6 @@
 ## Description
 
-Finish implementing CatImageCe1l - this is a UICollectionViewCell subclass that is supposed to fetch and show a cat's images.
+Finish implementing CatImageCell - this is a UICollectionViewCell subclass that is supposed to fetch and show a cat's images.
 
 To fetch the image, use CatImageCellModel. If the fetch fails due to a timeout, retry 2 times.
 if we cannot fetch and show the proper model, show placeholderImage in imageView instead.
