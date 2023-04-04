@@ -9,8 +9,7 @@ The following tests are included.
 - [Smallest positive integer](Smallest%20positive%20integer)
 - [Task of pairing](Task%20Of%20Pairing)
 
-### How to test
-
+## How to test
 Copy the code in a Playground file and test.
 
 ## License
