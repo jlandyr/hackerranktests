@@ -8,6 +8,7 @@ The following tests are included.
 - [Currency sorter](Currency%20sorter)
 - [Smallest positive integer](Smallest%20positive%20integer)
 - [Task of pairing](Task%20Of%20Pairing)
+- [CollectionViewCell](UICollectionViewCell)
 
 ## How to test
 Copy the code in a Playground file and test.
